@@ -9,7 +9,7 @@ in Firebase Realtime Database.
 
 ## Firebase Structure Example
 
-```json
+```js
 {
 	"door_status": "locked",
 	"last_intruder_detected": 1720710847.1234 // Unix Epoch
